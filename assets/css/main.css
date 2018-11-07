@@ -4190,3 +4190,9 @@ input, select, textarea {
 #contact .form button[type="submit"]:hover {
   background: #13a456;
 }
+
+#imagem_time{
+	border-radius: 90px;
+	width:170px;
+	height:170px;
+}
